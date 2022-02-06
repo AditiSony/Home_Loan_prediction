@@ -4,4 +4,7 @@ This is my learning project on predicting eligibility for a home loan based on v
 All analysis work done is using Python 3 and all requirements and dependencies are listed under section "importing libraries".
 
 ## **Source**
-Datasets and source code are available on Analytics Vidhya course at link- https://courses.analyticsvidhya.com/courses/take/loan-prediction-practice-problem-using-python which was a part of a hackathon competition.
+This is a learning project from Analytics Vidhya course at link- https://courses.analyticsvidhya.com/courses/take/loan-prediction-practice-problem-using-python which was a part of a hackathon competition.
+
+## **Folder Structure**
+Both train and test files are uploaded here. Source code file can be run directly however please ensure all necessary dependencies are installed before running the source code file.
